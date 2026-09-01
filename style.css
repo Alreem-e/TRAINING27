@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+.head{
+    font-size: larger;
+    display: flex;
+    gap: 1344px;
+
+}
+
+.head-des{
+    display: flex;
+    padding: 90px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description{
+    display: flex;
+   margin: 90px;
+   margin-top: -70px;
+
+}
+
+.des-title2{
+     display: flex;
+  
+  
+
+}
+
+.body-p1{
+display: flex;
+gap: 600px;
+}
+
+
+.body1-right{
+margin: 90px;
+}
+
+.image{
+    object-fit: cover;
+    padding: 30px;
+    transform: scale(0.9);
+    width: 1400px;
+    height: 700px;
+
+}
